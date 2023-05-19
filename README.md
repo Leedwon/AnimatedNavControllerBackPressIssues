@@ -9,4 +9,4 @@ We navigate to `firstRoute` and go back N times.
 We go back to initial destination by going back and we try go close the app by going back.
 But the app won't close unless we press back N+1 times.
 
-[recording](recordings/animated-nav-host-back-issue.webm)
+![recording](recordings/animated-nav-host-back-issue.webm)
