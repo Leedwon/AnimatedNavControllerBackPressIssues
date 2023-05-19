@@ -9,4 +9,4 @@ We navigate to `firstRoute` and go back N times.
 We go back to initial destination by going back and we try go close the app by going back.
 But the app won't close unless we press back N+1 times.
 
-![recording](recordings/animated-nav-host-back-issue.mp4)
+https://github.com/Leedwon/AnimatedNavControllerBackPressIssues/assets/29312085/3a527f7b-9c51-4648-bf16-8ce8b9739e97
